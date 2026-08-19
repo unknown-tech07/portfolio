@@ -334,3 +334,8 @@ footer {
   .contact-box { padding: 30px; }
   .footer-inner { flex-direction: column; }
 }
+.resume-view-btn,
+.resume-download-btn {
+  width: 180px;
+  text-align: center;
+}

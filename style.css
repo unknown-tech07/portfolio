@@ -291,7 +291,7 @@ footer {
   color: #718095;
   font-size: .8rem;
 }
-.footer-inner { display: flex; justify-content: space-between; gap: 20px; }
+.footer-inner { display: flex; center-content: space-between; gap: 20px; }
 .footer-inner a { color: #aab6c5; }
 
 .toast {
